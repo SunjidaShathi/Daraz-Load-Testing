@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1731233154593,2157,DarazLoadConfigure,200,OK,Thread Group 1-5,text,true,,502686,118,11,11,https://www.daraz.com.bd/,1026,0,743
+1731233153547,3204,DarazLoadConfigure,200,OK,Thread Group 1-2,text,true,,502534,118,11,11,https://www.daraz.com.bd/,2072,0,1789
+1731233153897,2866,DarazLoadConfigure,200,OK,Thread Group 1-3,text,true,,502774,118,9,9,https://www.daraz.com.bd/,1722,0,1439
+1731233153355,3408,DarazLoadConfigure,200,OK,Thread Group 1-1,text,true,,501945,118,9,9,https://www.daraz.com.bd/,2263,0,1981
+1731233154939,1846,DarazLoadConfigure,200,OK,Thread Group 1-6,text,true,,502705,118,7,7,https://www.daraz.com.bd/,699,0,397
+1731233155289,1688,DarazLoadConfigure,200,OK,Thread Group 1-7,text,true,,503167,118,6,6,https://www.daraz.com.bd/,474,0,182
+1731233154245,2732,DarazLoadConfigure,200,OK,Thread Group 1-4,text,true,,501833,118,6,6,https://www.daraz.com.bd/,1469,0,1092
+1731233155643,1738,DarazLoadConfigure,200,OK,Thread Group 1-8,text,true,,502283,118,5,5,https://www.daraz.com.bd/,487,0,184
+1731233155990,1645,DarazLoadConfigure,200,OK,Thread Group 1-9,text,true,,501831,118,5,5,https://www.daraz.com.bd/,401,0,178
+1731233156341,1605,DarazLoadConfigure,200,OK,Thread Group 1-10,text,true,,503274,118,5,5,https://www.daraz.com.bd/,539,0,185
+1731233157043,1307,DarazLoadConfigure,200,OK,Thread Group 1-12,text,true,,503527,118,5,5,https://www.daraz.com.bd/,455,0,184
+1731233156690,1700,DarazLoadConfigure,200,OK,Thread Group 1-11,text,true,,503136,118,4,4,https://www.daraz.com.bd/,507,0,190
+1731233157390,1484,DarazLoadConfigure,200,OK,Thread Group 1-13,text,true,,502455,118,5,5,https://www.daraz.com.bd/,510,0,187
+1731233157742,1660,DarazLoadConfigure,200,OK,Thread Group 1-14,text,true,,502720,118,5,5,https://www.daraz.com.bd/,440,0,186
+1731233158091,1592,DarazLoadConfigure,200,OK,Thread Group 1-15,text,true,,502563,118,5,5,https://www.daraz.com.bd/,447,0,180
+1731233158441,1586,DarazLoadConfigure,200,OK,Thread Group 1-16,text,true,,502480,118,5,5,https://www.daraz.com.bd/,445,0,175
+1731233158800,1653,DarazLoadConfigure,200,OK,Thread Group 1-17,text,true,,503256,118,4,4,https://www.daraz.com.bd/,466,0,195
+1731233159141,1581,DarazLoadConfigure,200,OK,Thread Group 1-18,text,true,,502507,118,3,3,https://www.daraz.com.bd/,426,0,191
+1731233159483,1780,DarazLoadConfigure,200,OK,Thread Group 1-19,text,true,,503056,118,2,2,https://www.daraz.com.bd/,535,0,188
+1731233159831,1460,DarazLoadConfigure,200,OK,Thread Group 1-20,text,true,,502764,118,1,1,https://www.daraz.com.bd/,472,0,187
